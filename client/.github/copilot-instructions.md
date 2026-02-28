@@ -1,0 +1,9 @@
+- [x] Project scaffolded as React Vite in client/
+- [x] Custom folder structure created
+- [x] Components, pages, layouts, routes, services, utils, and env file added
+- [ ] Customize further as needed
+- [ ] Install required extensions (none required for Vite/React)
+- [ ] Compile and run project
+- [ ] Create and run task if needed
+- [ ] Launch project
+- [ ] Ensure documentation is complete
